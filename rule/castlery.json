@@ -1,0 +1,22 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "tax-service-test.cslr.io"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "crusader-test",
+        "vpc-knight"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "ecomm-test.svc.cluster.local",
+        "internal.cslr.io"
+      ]
+    }
+  ],
+  "version": 1
+}

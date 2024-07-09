@@ -1,0 +1,10 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "teleport.cslr.io"
+      ]
+    }
+  ],
+  "version": 1
+}
