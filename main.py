@@ -131,6 +131,9 @@ def parse_list_file(link, output_directory):
                 # domain_entries.extend([address.strip() for address in addresses])  # 1.9以下的版本需要额外处理 domain_suffix
             elif pattern == 'domain':
                 domain_entries.extend([address.strip() for address in addresses])
+            elif pattern in ['ip_cidr', 'source_ip_cidr']:
+                rule_entry = {pattern: [address.strip().replace(",no-resolve", "") for address in addresses]}
+                result_rules["rules"].append(rule_entry)
             else:
                 rule_entry = {pattern: [address.strip() for address in addresses]}
                 result_rules["rules"].append(rule_entry)
