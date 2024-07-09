@@ -12,3 +12,14 @@ https://raw.githubusercontent.com/EAlyce/conf/main/Rule/OpenAI.list
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/AppleMusic/AppleMusic.yaml
 https://adrules.top/adrules_domainset.txt
 https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/gfw.txt
+https://gist.githubusercontent.com/jiz4oh/6d4d8436f13b6b0f867fe392596a8338/raw/castlery-direct.yaml
+https://gist.githubusercontent.com/jiz4oh/6d4d8436f13b6b0f867fe392596a8338/raw/castlery.yaml
+https://gist.github.com/jiz4oh/0f6d42470f67f6ae10f5ed28eb3c695b/raw/tailscale.yaml
+https://gist.github.com/jiz4oh/0f6d42470f67f6ae10f5ed28eb3c695b/raw/myproxy.yaml
+https://gist.github.com/jiz4oh/0f6d42470f67f6ae10f5ed28eb3c695b/raw/mydirect.yaml
+https://gist.github.com/jiz4oh/0f6d42470f67f6ae10f5ed28eb3c695b/raw/myhijacking.yaml
+https://gist.github.com/jiz4oh/0f6d42470f67f6ae10f5ed28eb3c695b/raw/tailscale-derper.yamlhttps://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/PayPal/PayPal.yam
+lhttps://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Spotify/Spotify.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Reddit/Reddit.yaml
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Binance/Binance.yaml
+https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/reject.txt
