@@ -2,11 +2,21 @@
   "rules": [
     {
       "domain": [
-        "raw.jiz4oh.com"
+        "raw.jiz4oh.com",
+        "sleazyfork.org",
+        "supjav.com",
+        "supremejav.com"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "justmysocks"
       ]
     },
     {
       "domain_suffix": [
+        "docker.com",
+        "docker.io",
         "services.googleapis.cn",
         "xn--ngstr-lra8j.com"
       ]
