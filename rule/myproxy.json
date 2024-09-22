@@ -3,6 +3,7 @@
     {
       "domain": [
         "alvless.comorg.us.kg",
+        "asdf-vm.com",
         "deeplx.missuo.ru",
         "gist.github.com",
         "gist.githubusercontent.com",
@@ -22,6 +23,7 @@
     },
     {
       "domain_suffix": [
+        "cloudfront.net",
         "docker.com",
         "docker.io",
         "nodeseek.com",
