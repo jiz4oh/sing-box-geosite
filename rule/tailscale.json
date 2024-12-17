@@ -2,6 +2,7 @@
   "rules": [
     {
       "domain_suffix": [
+        "loc.jiz4oh.com",
         "ts.jiz4oh.com"
       ]
     },
