@@ -27,6 +27,8 @@
     },
     {
       "domain_suffix": [
+        "api-gl.lbkrs.com",
+        "api.lbkrs.com",
         "cloudfront.net",
         "docker.com",
         "docker.io",
