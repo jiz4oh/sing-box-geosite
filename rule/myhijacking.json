@@ -90,6 +90,7 @@
     {
       "domain_suffix": [
         "114dev.com",
+        "abtest.58moto.com",
         "auth.wo.cn",
         "auth.wosms.cn",
         "config.cmpassport.com",
@@ -104,6 +105,7 @@
         "open.e.189.cn",
         "opencloud.wostore.cn",
         "smsks1.cmpassport.com",
+        "tracker.yfanads.com",
         "verify.cmpassport.com",
         "wap.cmpassport.com",
         "www.cmpassport.com",
