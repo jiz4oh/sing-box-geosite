@@ -3,6 +3,7 @@
     {
       "domain": [
         "alvless.comorg.us.kg",
+        "apple.comscoreresearch.com",
         "asdf-vm.com",
         "cdn.teleport.dev",
         "deeplx.missuo.ru",
@@ -10,6 +11,10 @@
         "gist.githubusercontent.com",
         "imldy.cn",
         "longbridge.com",
+        "news-edge.apple.com",
+        "news-events.apple.com",
+        "play-cdn.itunes-apple.com.akadns.net",
+        "play.itunes.apple.com",
         "raw.jiz4oh.com",
         "sleazyfork.org",
         "wiki.metacubex.one"
@@ -17,10 +22,12 @@
     },
     {
       "domain_keyword": [
+        "apple-relay",
         "bitwarden",
         "duolingo",
         "jav",
         "justmysocks",
+        "pikpak",
         "porn",
         "sci-hub"
       ]
@@ -29,14 +36,20 @@
       "domain_suffix": [
         "api-gl.lbkrs.com",
         "api.lbkrs.com",
+        "apple-relay.apple.com",
+        "apple-relay.cloudflare.com",
+        "apple.news",
         "cloudfront.net",
         "docker.com",
         "docker.io",
         "nodeseek.com",
+        "pages.dev",
+        "pstmrk.it",
         "push.apple.com",
         "services.googleapis.cn",
         "trackingmore.com",
         "wise.com",
+        "workers.dev",
         "xn--ngstr-lra8j.com"
       ]
     }
